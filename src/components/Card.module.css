@@ -1,0 +1,9 @@
+.card {
+    border-style: solid;
+    border-radius: 3px;
+    padding: 15px;
+}
+
+.card:hover {
+    cursor: pointer;
+}
